@@ -25,10 +25,10 @@ The Sifter is a part of your colony's production line. The Sifter will sift thro
 
 The default materials that can be sifted are:
 <ul>
-  <li>Dirt</li>
-  <li>Sand</li>
-  <li>Gravel</li>
-  <li>Soul Sand</li>
+  <li>Dirt</li> - Yields: Seeds, Jungle Saplings, Birch Saplings, Spruce Saplings, Carrot, 
+  <li>Sand</li> - Yields: Nautilus Shell, Cactus, Sugar Cane, Gold Nugget
+  <li>Gravel</li> - Yields: Redstone Dust, Coal, Iron Nugget, Flint 
+  <li>Soul Sand</li> Yields: 
 </ul>
 
 However, you can change this in the config file. This also works with modded items. Anything can be added here, it is up to the player (or the server owner).
